@@ -13,8 +13,8 @@
 ## 2.1、基本结构
 
 **基本介绍**：Linux的文件系统是采用级层式的树状目录结构，在此结构中的最上层是根目录“/”，然后在此目录上再创建其他的目录。
+![image](https://user-images.githubusercontent.com/58134113/158044801-c01a58ce-68f3-459c-a6d2-fe524cd169eb.png)
 
-![](image/image.png "")
 
 **在Linux世界里，一切皆文件**
 
